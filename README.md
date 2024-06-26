@@ -30,6 +30,7 @@ pip install scikit-learn
 pip install pandas
 pip install matplotlib
 pip install seaborn
+pip install numpy
 ```
 
 Make sure you have Python 3.10 or later installed on your system before running the above commands.
